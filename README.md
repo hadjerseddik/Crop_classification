@@ -22,6 +22,14 @@ Tensorflow , Keras , Keras_applications, Keras_models, numpy,os,pandas
 
 4- Find Datasets link in Train/..DataSet/DataSet , import it directly from Google Drive 
 
-5- 
+5- About the models architectures you can use the direct drive link for each model ' find it in train/..DataSet/Architecture '
+
+6- And here you go ready to train your model
+
+7- Evaluate your test experiments and store the dataframe result and the plots in a drive directory 
+
+# Results
+
+
 
 
