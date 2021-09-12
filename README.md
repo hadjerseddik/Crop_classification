@@ -4,7 +4,7 @@ By SEDDIK Hadjer & ABLA Hanane
 
 Supervised by Dr BRAHIMI Mohamed
 
-#Requirements :
+# Requirements :
 
 Dependencies must called before writting your scripts :
 
