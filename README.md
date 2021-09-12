@@ -1,5 +1,7 @@
 # Crop_classification
 
+This is a source code that tests 8 experiments of 4 datasets in the aim of classifying  plants to thier crop classes 
+
 By SEDDIK Hadjer & ABLA Hanane
 
 Supervised by Dr BRAHIMI Mohamed
