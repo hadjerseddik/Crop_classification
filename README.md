@@ -31,7 +31,13 @@ Tensorflow , Keras , Keras_applications, Keras_models, numpy,os,pandas
 
 7- Evaluate your test experiments and store the dataframe result and the plots in a drive directory 
 
-# Results
+
+
+# Licence
+
+You can use any part of this code in your projects
+
+
 
 
 
