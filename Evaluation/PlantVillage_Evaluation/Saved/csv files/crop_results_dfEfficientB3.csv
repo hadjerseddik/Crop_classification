@@ -1,0 +1,15 @@
+,precision,recall,f1-score,support
+Apple,0.0,0.0,0.0,635
+Blueberry,0.0,0.0,0.0,300
+Cherry_(including_sour),0.0,0.0,0.0,380
+Corn_(maize),0.0,0.0,0.0,772
+Grape,0.0,0.0,0.0,811
+Orange,0.0,0.0,0.0,1102
+Peach,0.0,0.0,0.0,531
+"Pepper,_bell",0.0,0.0,0.0,495
+Potato,0.0,0.0,0.0,431
+Raspberry,0.0,0.0,0.0,74
+Soybean,0.0,0.0,0.0,1018
+Squash,0.0,0.0,0.0,367
+Strawberry,0.0,0.0,0.0,314
+Tomato,0.33431544056716694,1.0,0.5011040574109854,3631
